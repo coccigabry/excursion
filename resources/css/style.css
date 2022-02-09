@@ -1,0 +1,30 @@
+html {
+  margin: 0;
+  padding: 0;
+  background-color: black;
+  text-align: center;
+  font-family: Verdana, sans-serif;
+  font-size: 21px;
+}
+
+h1 {
+  font-weight: normal;
+  font-size: 2.38rem;
+  color: white;
+}
+
+h2 {
+  font-weight: 300;
+  font-size: 2rem;
+  color: white;
+}
+
+p {
+  font-size: 1rem;
+  color: gray;
+}
+
+a {
+  font-size: .76rem;
+  color: aquamarine;
+}
